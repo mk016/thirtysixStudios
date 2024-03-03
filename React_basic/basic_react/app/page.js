@@ -1,11 +1,15 @@
-import React from 'react'
+"use client"
+import React , {useState} from 'react'
+import Header from '../Components/Header'
 
 const page = () =>{
-  return(
-    <div>
-      page
-    </div>
-  )
+
+return (
+  <>
+ 
+  <Header/>
+  </>
+)
 }
 
 export default page
