@@ -27,7 +27,6 @@ Android Application for asset management.
 - Clone project by using below command in the terminal and make sure you have git installed on your system:
 
 ```
-$ git clone https://github.com/PrinceSumberia/assets-management
 ```
 
 - Now open the project in Android Studio.
@@ -99,4 +98,4 @@ So feel free to make a contribution and submit a pull request.
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/princesumberia"><img src='./bmc-button.png'></a>
+
